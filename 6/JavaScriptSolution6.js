@@ -1,21 +1,22 @@
-var s = "";
-var a = 3;
+const x = 15 * 7 * 5 * 13;
 
-while (a != 1) {
-  s += a.toString();
-  if (a % 2 == 0) {
-    a = a/2
-  } else {
-    a = 3 * a + 1
+function f(i) {
+  let k = 2;
+  while (k <= i) {
+    if (i%k == 0) {
+      return (f(i/k) + k.toString());
+    }
+    k=k+1;
   }
+  return "";
 }
 
-const url = "www.multisoft.se/" + s;
+const url = "www.multisoft.se/" + f(x);
 const { exec } = require("child_process");
 if (process.platform === "win32") {
     exec(`start ${url}`);
   } else if (process.platform === "darwin" || process.platform === "linux") {
     exec(`open ${url}`);
   } else {
-    console.log("www.multisoft.se/" + s)
+    console.log("www.multisoft.se/" + f(x))
   }
