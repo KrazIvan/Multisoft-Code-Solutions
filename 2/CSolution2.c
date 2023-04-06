@@ -36,7 +36,7 @@ int main() {
     int a[] = {5, 8, 9, 0, 66, 18};
     int i;
 
-    for (i = 1; i < sizeof(a) / sizeof(a[0]); i++) {
+    for (i = 1; i < sizeof(a)/sizeof(a[0]); i++) {
         if (a[i] % 2 == 0 && a[i-1] % 3 == 0) {
             char str_num[10];
             snprintf(str_num, sizeof(str_num), "%d", a[i]/2);
@@ -49,7 +49,7 @@ int main() {
     }
 
     char url[100];
-    snprintf(url, sizeof(url), "https://www.multisoft.se/%s", s);
+    snprintf(url, sizeof(url), "www.multisoft.se/%s", s);
 
     open_browser(url);
 
