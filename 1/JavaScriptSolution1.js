@@ -8,9 +8,9 @@ for (let i = 1; i < a.length; i++) {
 }
 
 const url = "www.multisoft.se/" + s;
-const { exec } = require('child_process');
-if (process.platform === 'win32') {
+const { exec } = require("child_process");
+if (process.platform === "win32") {
     exec(`start ${url}`);
-  } else if (process.platform === 'darwin' || process.platform === 'linux') {
+  } else if (process.platform === "darwin" || process.platform === "linux") {
     exec(`open ${url}`);
   }
