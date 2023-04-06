@@ -44,7 +44,7 @@ int main() {
     }
 
     char url[100];
-    snprintf(url, sizeof(url), "https://www.multisoft.se/%s", s);
+    snprintf(url, sizeof(url), "www.multisoft.se/%s", s);
 
     open_browser(url);
 
