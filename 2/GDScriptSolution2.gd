@@ -10,7 +10,7 @@ func openMultisoftUrl2():
 		else:
 			s += str(a[i]*2)
 
-	OS.shell_open("http://www.multisoft.se/" + s)
+	OS.shell_open("www.multisoft.se/" + s)
 
 func _ready() -> void:
 	openMultisoftUrl2()
