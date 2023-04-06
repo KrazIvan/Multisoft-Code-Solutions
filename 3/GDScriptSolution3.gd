@@ -1,14 +1,17 @@
 extends Node
 
-func openMultisoftUrl3():
-	var s : String = ""
-	const a : Array = [5, 8, 9, 0, 66, 18]
+func fun(n):
+	if n == 0:
+		return 2
+	elif n == 1:
+		return 1
+	else:
+		return fun(n - 1) + fun(n - 2)
 
-	for i in range(1, len(a)):
-		if int(a[i]) % 2 == 0 and int(a[i-1]) % 3 == 0:
-			s += str(int(a[i]/2))
-		else:
-			s += str(a[i]*2)
+func openMultisoftUrl3():
+	var s: String = ""
+	for i in range(1, 6):
+		s += str(fun(i))
 
 	OS.shell_open("www.multisoft.se/" + s)
 
