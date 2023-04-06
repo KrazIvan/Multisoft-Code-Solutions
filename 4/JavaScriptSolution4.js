@@ -15,4 +15,6 @@ if (process.platform === "win32") {
     exec(`start ${url}`);
   } else if (process.platform === "darwin" || process.platform === "linux") {
     exec(`open ${url}`);
+  } else {
+    console.log("www.multisoft.se/" + s)
   }
