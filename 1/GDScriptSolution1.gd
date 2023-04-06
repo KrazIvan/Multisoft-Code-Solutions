@@ -1,8 +1,8 @@
 extends Node
 
 func openMultisoftUrl():
-	var s = ""
-	const a = "1112031584"
+	var s: String = ""
+	const a: String = "1112031584"
 
 	for i in range(1, len(a)):
 		if int(a[i]) % 2 == int(a[i-1]) % 2:
