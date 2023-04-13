@@ -1,0 +1,21 @@
+HAI 1.2
+CAN HAS STDIO?
+I HAS A s ITZ ""
+I HAS A a ITZ 3
+I HAS A THREEEAY ITZ A NUMBR
+IM IN YR LOPPPYLOL
+    BOTH SAEM a AN 1, O RLY?
+        YA RLY
+            VISIBLE SMOOSH "www.multisoft.se/" AN s MKAY
+            GTFO
+        OIC
+    s R SMOOSH s AN a MKAY
+    BOTH SAEM MOD OF a AN 2 AN 0, O RLY?
+        YA RLY
+            a R QUOSHUNT OF a AN 2
+        NO WAI
+            I HAS A THREEEAY ITZ PRODUKT OF 3 AN a
+            a R SUM OF THREEEAY AN 1
+        OIC
+IM OUTTA YR LOPPPYLOL
+KTHXBYE
