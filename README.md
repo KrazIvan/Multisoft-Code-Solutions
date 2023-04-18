@@ -2,7 +2,7 @@
 
 ## 1.
 
-![1st mystery code.](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/1.jpg)
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/1.jpg" alt= "1st mystery code." width="250" height="150">
 
 **Raw text from picture:**
 
