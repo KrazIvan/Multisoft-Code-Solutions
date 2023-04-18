@@ -2,7 +2,7 @@
 
 ## 1.
 
-<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/1.jpg" alt= "1st mystery code." width="850" height="450">
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/1.jpg" alt= "1st mystery code." width="850" height="600">
 
 **Raw text from picture:**
 
