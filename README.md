@@ -49,7 +49,7 @@ goto_url("www.multisoft.se/" + s)
 
 ## 3.
 
-<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/3.jpg" alt= "3rd mystery code." width="850" height="500">
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/3.jpg" alt= "3rd mystery code." width="850" height="400">
 
 **Raw text from picture:**
 
