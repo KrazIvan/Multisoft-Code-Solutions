@@ -1,4 +1,4 @@
-# Solutions made so far.
+# Solutions made so far and found codes.
 
 ## 1.
 
