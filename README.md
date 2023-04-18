@@ -25,7 +25,7 @@ goto_url('www.multisoft.se/' + s)
 
 ## 2.
 
-![2nd mystery code.](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/2/2.jpg)
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/2/2.jpg" alt= "2nd mystery code." width="850" height="500">
 
 **Raw text from picture:**
 
@@ -49,7 +49,7 @@ goto_url("www.multisoft.se/" + s)
 
 ## 3.
 
-![3rd mystery code.](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/3.jpg)
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/3.jpg" alt= "3rd mystery code." width="850" height="500">
 
 **Raw text from picture:**
 
@@ -74,7 +74,7 @@ goto_url('www.multisoft.se/' + s)
 
 ## 4.
 
-![4th mystery code.](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/4.jpg)
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/4.jpg" alt= "4th mystery code." width="850" height="500">
 
 **Raw text from picture:**
 
@@ -100,7 +100,7 @@ goto_url("www.multisoft.se/" + s)
 
 ## 5.
 
-![5th mystery code.](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/5/5.jpg)
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/5/5.jpg" alt= "5th mystery code." width="850" height="500">
 
 **Raw text from picture:**
 
