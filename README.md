@@ -1,4 +1,4 @@
-# Solutions made so far and found codes.
+# Solutions made so far and found mystery codes.
 
 ## 1.
 
