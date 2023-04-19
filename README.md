@@ -144,6 +144,8 @@ String f( int i ) {
     }
     return "";
 }
+
+goto_url( www.multisoft.se/ + f(x) );
 ```
 
 **Languages solved in:**
