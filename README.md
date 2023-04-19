@@ -18,11 +18,11 @@ goto_url('www.multisoft.se/' + s)
 ```
 
 **Languages solved in:**
-- Python.
-- JavaScript.
-- C.
-- GDScript.
-- R.
+- [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/PythonSolution1.py).
+- [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/JavaScriptSolution1.js).
+- [C](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/CSolution1.c).
+- [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/GDScriptSolution1.gd).
+- [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/RSolution1.r).
 
 ## 2.
 
@@ -43,11 +43,11 @@ goto_url("www.multisoft.se/" + s)
 ```
 
 **Languages solved in:**
-- Python.
-- JavaScript.
-- C.
-- GDScript.
-- R.
+- [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/2/PythonSolution2.py).
+- [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/2/JavaScriptSolution2.js).
+- [C](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/2/CSolution2.c).
+- [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/2/GDScriptSolution2.gd).
+- [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/2/RSolution2.r).
 
 ## 3.
 
@@ -69,12 +69,12 @@ goto_url('www.multisoft.se/' + s)
 ```
 
 **Languages solved in:**
-- Python.
-- JavaScript.
-- C.
-- GDScript.
-- LOLCODE.
-- R.
+- [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/PythonSolution3.py).
+- [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/JavaScriptSolution3.js).
+- [C](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/CSolution3.c).
+- [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/GDScriptSolution3.gd).
+- [LOLCODE](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/LOLCODESolution3.lol).
+- [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/3/RSolution3.r).
 
 ## 4.
 
@@ -97,11 +97,11 @@ goto_url("www.multisoft.se/" + s)
 ```
 
 **Languages solved in:**
-- Python.
-- JavaScript.
-- GDScript.
-- LOLCODE.
-- R.
+- [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/PythonSolution4.py).
+- [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/JavaScriptSolution4.js).
+- [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/GDScriptSolution4.gd).
+- [LOLCODE](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/LOLCODESolution4.lol).
+- [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/RSolution4.r).
 
 ## 5.
 
@@ -120,10 +120,10 @@ goto_url('www.multisoft.se/' + a)
 ```
 
 **Languages solved in:**
-- Python.
-- JavaScript.
-- GDScript.
-- R.
+- [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/5/PythonSolution5.py).
+- [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/5/JavaScriptSolution5.js).
+- [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/5/GDScriptSolution5.gd).
+- [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/5/RSolution5.r).
 
 ## 6.
 
@@ -149,7 +149,7 @@ goto_url( www.multisoft.se/ + f(x) );
 ```
 
 **Languages solved in:**
-- Python.
-- JavaScript.
-- GDScript.
-- R.
+- [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/PythonSolution6.py).
+- [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/JavaScriptSolution6.js).
+- [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/GDScriptSolution6.gd).
+- [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/RSolution6.r).
