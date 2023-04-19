@@ -22,6 +22,7 @@ goto_url('www.multisoft.se/' + s)
 - JavaScript.
 - C.
 - GDScript.
+- R.
 
 ## 2.
 
@@ -46,6 +47,7 @@ goto_url("www.multisoft.se/" + s)
 - JavaScript.
 - C.
 - GDScript.
+- R.
 
 ## 3.
 
@@ -72,6 +74,7 @@ goto_url('www.multisoft.se/' + s)
 - C.
 - GDScript.
 - LOLCODE.
+- R.
 
 ## 4.
 
@@ -98,6 +101,7 @@ goto_url("www.multisoft.se/" + s)
 - JavaScript.
 - GDScript.
 - LOLCODE.
+- R.
 
 ## 5.
 
@@ -119,6 +123,7 @@ goto_url('www.multisoft.se/' + a)
 - Python.
 - JavaScript.
 - GDScript.
+- R.
 
 ## 6.
 
@@ -145,3 +150,4 @@ String f( int i ) {
 - Python.
 - JavaScript.
 - GDScript.
+- R.
