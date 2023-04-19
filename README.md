@@ -71,6 +71,7 @@ goto_url('www.multisoft.se/' + s)
 - JavaScript.
 - C.
 - GDScript.
+- LOLCODE.
 
 ## 4.
 
