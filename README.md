@@ -103,6 +103,7 @@ goto_url("www.multisoft.se/" + s)
 - [LOLCODE](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/LOLCODESolution4.lol)
 - [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/RSolution4.r)
 - [C](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/CSolution4.c)
+- [COBOL](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/COBOLSolution4.cbl)
 
 ## 5.
 
