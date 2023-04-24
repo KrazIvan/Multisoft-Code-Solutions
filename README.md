@@ -104,6 +104,7 @@ goto_url("www.multisoft.se/" + s)
 - [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/RSolution4.r)
 - [C](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/CSolution4.c)
 - [COBOL](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/COBOLSolution4.cbl)
+- [SQL](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/4/SQLSolution4.sql)
 
 ## 5.
 
