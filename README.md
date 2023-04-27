@@ -1,7 +1,7 @@
 # Solutions made so far and found mystery codes.
 
 <div style="display: flex; justify-content: center; text-align: center;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=Python">Python</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=Python">Python</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=JavaScript">JavaScript</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=C">C</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=GDScript">GDScript</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
