@@ -1,13 +1,13 @@
 # Solutions made so far and found mystery codes.
 
 <div style="display: flex; justify-content: center; text-align: center;">
-  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=Python" style="margin-right: 40px;">Python</a></strong>
-  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=JavaScript" style="margin-right: 40px;">JavaScript</a></strong>
-  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=C" style="margin-right: 40px;">C</a></strong>
-  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=GDScript" style="margin-right: 40px;">GDScript</a></strong>
-  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=R" style="margin-right: 40px;">R</a></strong>
-  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=LOLCODE" style="margin-right: 40px;">LOLCODE</a></strong>
-  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=COBOL" style="margin-right: 40px;">COBOL</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=Python">Python</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=JavaScript">JavaScript</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=C">C</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=GDScript">GDScript</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=R">R</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=LOLCODE">LOLCODE</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=COBOL">COBOL</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=SQL">SQL</a></strong>
 </div>
 
