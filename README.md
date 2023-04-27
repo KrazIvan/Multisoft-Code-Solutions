@@ -1,14 +1,14 @@
 # Solutions made so far and found mystery codes.
 
 <div style="display: flex; justify-content: center; text-align: center;">
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=Python" style="margin-right: 20px; font-weight: bold;">Python</a>
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=JavaScript" style="margin-right: 20px; font-weight: bold;">JavaScript</a>
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=C" style="margin-right: 20px; font-weight: bold;">C</a>
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=GDScript" style="margin-right: 20px; font-weight: bold;">GDScript</a>
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=R" style="margin-right: 20px; font-weight: bold;">R</a>
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=LOLCODE" style="margin-right: 20px; font-weight: bold;">LOLCODE</a>
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=COBOL" style="margin-right: 20px; font-weight: bold;">COBOL</a>
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=SQL"style="font-weight: bold;">SQL</a>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=Python" style="margin-right: 20px;">Python</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=JavaScript" style="margin-right: 20px;">JavaScript</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=C" style="margin-right: 20px;">C</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=GDScript" style="margin-right: 20px;">GDScript</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=R" style="margin-right: 20px;">R</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=LOLCODE" style="margin-right: 20px;">LOLCODE</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=COBOL" style="margin-right: 20px;">COBOL</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=SQL">SQL</a></strong>
 </div>
 
 ## 1.
