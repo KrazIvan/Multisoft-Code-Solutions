@@ -8,7 +8,7 @@
   <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=R" style="margin-right: 20px; font-weight: bold;">R</a>
   <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=LOLCODE" style="margin-right: 20px; font-weight: bold;">LOLCODE</a>
   <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=COBOL" style="margin-right: 20px; font-weight: bold;">COBOL</a>
-  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=SQL">SQL</a>
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=SQL"style="font-weight: bold;">SQL</a>
 </div>
 
 ## 1.
