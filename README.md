@@ -1,4 +1,5 @@
 # Solutions made so far and found mystery codes.
+<br/><br/>
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <strong><a>Links to all solutions:</a></strong>
