@@ -142,7 +142,7 @@ goto_url('www.multisoft.se/' + a)
 
 ## 6.
 
-![6th mystery code.](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/6.jpg)
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/6.jpg" alt= "6th mystery code.">
 
 **Raw text from picture:**
 
