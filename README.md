@@ -1,5 +1,16 @@
 # Solutions made so far and found mystery codes.
 
+<div style="display: flex;">
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=Python" style="margin-right: 20px;">Python</a>
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=JavaScript" style="margin-right: 20px;">JavaScript</a>
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=C" style="margin-right: 20px;">C</a>
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=GDScript" style="margin-right: 20px;">GDScript</a>
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=R" style="margin-right: 20px;">R</a>
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=LOLCODE" style="margin-right: 20px;">LOLCODE</a>
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=COBOL" style="margin-right: 20px;">COBOL</a>
+  <a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=SQL">SQL</a>
+</div>
+
 ## 1.
 
 <img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/1/1.jpg" alt= "1st mystery code." width="850" height="500">
