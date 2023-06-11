@@ -194,3 +194,4 @@ goto_url( www.multisoft.se/ + f(x) );
 + [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/PythonSolution7.py)
 + [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/JavaScriptSolution7.js)
 + [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/GDScriptSolution7.gd)
++ [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/RSolution7.r)
