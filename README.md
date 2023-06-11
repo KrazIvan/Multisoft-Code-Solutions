@@ -172,7 +172,7 @@ goto_url( www.multisoft.se/ + f(x) );
 
 ## 7.
 
-<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/7.jpg" alt= "7th mystery code.">
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/7.jpg" alt= "7th mystery code." width="850" height="500">
 
 **Raw text from picture:**
 
