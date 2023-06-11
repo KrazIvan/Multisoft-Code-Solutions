@@ -168,3 +168,29 @@ goto_url( www.multisoft.se/ + f(x) );
 + [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/JavaScriptSolution6.js)
 + [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/GDScriptSolution6.gd)
 + [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/6/RSolution6.r)
+
+
+## 7.
+
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/7.jpg" alt= "7th mystery code.">
+
+**Raw text from picture:**
+
+```
+s = ""
+a = [3, 8, 5, 1, 8, 5, 3, 2, 7]
+i = 0
+while i < length(a)
+    if a[i] % 2 != 0
+        s += a[i] + a[a[i]]
+        i += 2
+    else
+        i -= 1
+
+goto_url( www.multisoft.se/ + f(x) );
+```
+
+**Languages solved in:**
++ [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/PythonSolution7.py)
++ [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/JavaScriptSolution7.js)
++ [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/GDScriptSolution7.gd)
