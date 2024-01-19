@@ -1,13 +1,14 @@
 var s: string = "";
-const a: Array<number> = [3, 8, 5, 1, 8, 5, 3, 2, 7];
-var i: number = 0;
+const a: Array<number> = [1, 4, 6];
+const b: Array<number> = [2, 7];
 
-while (i < a.length) {
-  if (a[i] % 2 != 0) {
-    s += a[i] + a[a[i]];
-    i += 2;
-  } else {
-    i -= 1
+for (let n of a) {
+  for (let m of b) {
+      if ((n + m) % 2 === 0) {
+          s += a[(n + 1) % a.length].toString();
+      } else {
+          s += b[(m + 1) % b.length].toString();
+      }
   }
 }
 
