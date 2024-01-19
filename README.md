@@ -9,7 +9,8 @@
   <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=R">R</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=LOLCODE">LOLCODE</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=COBOL">COBOL</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=SQL">SQL</a></strong>
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=SQL">SQL</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong><a href="https://github.com/KrazIvan/Multisoft-Code-Solutions/search?l=TypeScript">TypeScript</a></strong>
 </div>
 
 ## 1.
