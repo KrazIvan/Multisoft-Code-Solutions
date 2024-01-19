@@ -195,3 +195,33 @@ goto_url( www.multisoft.se/ + f(x) );
 + [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/JavaScriptSolution7.js)
 + [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/GDScriptSolution7.gd)
 + [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/RSolution7.r)
++ [TypeScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/7/TypeScriptSolution7.ts)
+
+
+## 8.
+
+<img src="https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/8/8.jpg" alt= "8th mystery code." width="850" height="500">
+
+**Raw text from picture:**
+
+```
+s = ""
+a = [1, 4, 6]
+b = [2, 7]
+
+for n in a:
+    for m in b:
+        if (n + m) % 2 == 0:
+            s += str(a[(n + 1) % len(a)])
+        else:
+            s += str(b[(m + 1) % len(b)])
+
+goto_url("www.multisoft.se/" + s)
+```
+
+**Languages solved in:**
++ [Python](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/8/PythonSolution8.py)
++ [JavaScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/8/JavaScriptSolution8.js)
++ [GDScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/8/GDScriptSolution8.gd)
++ [R](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/8/RSolution8.r)
++ [TypeScript](https://github.com/KrazIvan/Multisoft-Code-Solutions/blob/main/8/TypeScriptSolution8.ts)
